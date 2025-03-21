@@ -1,1 +1,1 @@
-# teste-cornos
+# teste-cor
